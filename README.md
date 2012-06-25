@@ -1,2 +1,2 @@
-test-app
-========
+test-app example
+===========
